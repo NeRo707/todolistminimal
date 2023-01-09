@@ -1,0 +1,17 @@
+.todolist{
+  display: flex;
+  flex-direction: column;
+  border: 1px solid red;
+  width: 800px;
+  height: 600px;
+  background-color: rgb(92, 92, 92);
+  display: flex;
+  height: min-content;
+  .box{
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+}
