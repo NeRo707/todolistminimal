@@ -1,3 +1,3 @@
-# LIVE VIEW
+# DEMO
 
 # https://nerostodolistappminimal.netlify.app/
